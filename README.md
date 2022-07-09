@@ -1,4 +1,4 @@
-RickRollBpt
+RickRollBot
 
 A basic reddit PRAW python bot which identifies and replies to any rickroll links found on r/all (basically the whole of reddit)
 
