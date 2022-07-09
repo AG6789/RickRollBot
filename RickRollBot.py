@@ -3,10 +3,10 @@
 import praw 
 
 bot = praw.Reddit(user_agent='RickRollBot v0.1',
-                  client_id='PXelA16HMvxdxKl2nWQpvA',
-                  client_secret='sThGzcvfiMwX0sV0IjvbrlSihd7o7A',
-                  username='rickroll-or-not-bot',
-                  password='30072018')
+                  client_id='demo_ID',
+                  client_secret='demo_secret',
+                  username='demo_username',
+                  password='demo_pwd')
 
 subreddit = bot.subreddit('all')
 
